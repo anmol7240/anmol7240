@@ -1,4 +1,4 @@
-### Hi there! I'm Anmol 👋<br>Learning, building, and experimenting in the world of data.<br>I’m a Data Science student focused on applying **machine learning, data analytics, and problem-solving skills** to develop impactful and scalable solutions.<br>Feel free to explore my projects and learn more about my work.<br>Let’s connect and grow together 🚀
+### Hi there! I'm Anmol 👋<br><br>Learning, building, and experimenting in the world of data.<br><br>I’m a Data Science student focused on applying **machine learning, data analytics, and problem-solving skills** to develop impactful and scalable solutions.<br><br>Feel free to explore my projects and learn more about my work.<br><br>Let’s connect and grow together 🚀
 
 
 # 💻 Tech Stack:
