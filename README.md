@@ -1,4 +1,14 @@
- Hi there! I'm Anmol 👋<br><br>Learning, building, and experimenting in the world of data.<br><br>I’m a Data Science student focused on applying **machine learning, data analytics, and problem-solving skills** to develop impactful and scalable solutions.<br><br>Feel free to explore my projects and learn more about my work.<br><br>Let’s connect and grow together 🚀
+Hi there! I'm Anmol 👋<br><br>
+
+Building and exploring solutions at the intersection of **Data Science, Machine Learning, and Backend Development**.<br><br>
+
+I’m a final-year **B.Tech Data Science student** with hands-on experience in **Python, Machine Learning, Deep Learning, NLP, FastAPI, REST APIs, and SQL**. I enjoy turning data and ideas into practical, scalable applications.<br><br>
+
+Currently, I’m focused on strengthening my skills in **AI/ML, backend development, and real-world project building** while continuously learning and experimenting with new technologies.<br><br>
+
+Feel free to explore my projects and follow my journey.<br><br>
+
+Let’s connect, build, and grow together 🚀
 
 
 # 💻 Tech Stack:
